@@ -1,0 +1,1 @@
+Actuation and  control  by  digital processes is infiltrating objects  at  a variety of scales.  The foundation of the  RV Prototype is a slab  on  grade with  four  raised rolling  pivots that  allow  the house  to be rolled  through the ‘Z axis’. These rolling points of support are located  on a revolving ring  that  allows  the structure to be rotated through the ‘X & Y axes’.

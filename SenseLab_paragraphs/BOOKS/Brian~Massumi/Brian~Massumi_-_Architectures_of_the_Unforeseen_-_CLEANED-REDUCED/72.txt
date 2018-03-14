@@ -1,0 +1,1 @@
+For example, you might simulate gravity. Gravity, of course, is not the only kind of architecturally operative force. Say you are designing a bus terminal. There are other attractive forces at play. The flow of traffic past the terminal, into which the arriving passengers will tend inexorably to be swept, is one.

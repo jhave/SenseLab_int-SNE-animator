@@ -1,0 +1,5 @@
+Minor Pentatonic (from C) Over a C7 Chord
+G
+17
+4 J 	3	J	J	I tJF	F	F 	F 	iF 	F 	F	r	I ;r	J	J	3	=II
+Eb Minor/F# Major Pentatonic Over a C7 Chord (Hits aJl Altered Chord notes but  does not contain Cl

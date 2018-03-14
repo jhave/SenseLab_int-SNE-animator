@@ -1,0 +1,2 @@
+The most  difficult  area  to get to be modeless was  a very  tiny  one, that   of  elementary  text  editing. How   to  get  rid  of  ‘insert’  and
+‘replace’ modes that  had  plagued a decade of editors? […] Over  a weekend I  built  a  sample paragraph  editor whose   main simplification was that  it eliminated the distinction between insert, replace,  and  delete  by allowing selections to extend between the characters.  Thus,  there  could  be a zero-width selection, and  thus every  operation could  be a replace.   ‘Insert’ meant replace  the zero-

@@ -1,0 +1,1 @@
+Lemma. Second-order event-derivatives can also be called "degenerate" event- derivatives (in Peirce's sense of that term).

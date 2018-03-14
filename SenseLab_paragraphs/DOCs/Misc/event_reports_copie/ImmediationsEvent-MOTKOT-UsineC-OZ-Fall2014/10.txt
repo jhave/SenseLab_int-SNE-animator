@@ -1,0 +1,2 @@
+Proposition 4. Walking time.
+A diagrammatic game to walk through the space.

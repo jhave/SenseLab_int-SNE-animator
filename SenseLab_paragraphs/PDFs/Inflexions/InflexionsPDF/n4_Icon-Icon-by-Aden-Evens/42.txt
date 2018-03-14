@@ -1,0 +1,1 @@
+width selection.  ‘Delete’ meant replace  the  selection with  a zero- width string  of characters (Kay, 2001: 130).

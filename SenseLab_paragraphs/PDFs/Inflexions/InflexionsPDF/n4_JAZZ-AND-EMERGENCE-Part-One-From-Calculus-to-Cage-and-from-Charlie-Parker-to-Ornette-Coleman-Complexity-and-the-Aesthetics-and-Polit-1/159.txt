@@ -1,0 +1,2 @@
+becomes  deployed to describe the large-scale behavior of complex systems incapable of being mapped in a precisely deterministic ways--because of the inherent role that contingency plays in the behavior of these systems. When
+there  is a range  of possible outcomes in time for the behavior of a system, there is a greater need  to represent graphically that range,  rather than  the actual  location and  trajectory of every individual element contained by the system itself.

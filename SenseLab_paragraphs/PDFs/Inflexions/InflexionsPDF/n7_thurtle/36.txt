@@ -1,0 +1,1 @@
+An investigation into animation allows  one to see how change can also occur as a product of the differentials within a frame  (through the compositing of layers)  in addition to  the  differential across  the  inside   and  outside of  a  frame  (through

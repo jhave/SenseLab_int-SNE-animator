@@ -1,0 +1,5 @@
+Whitehead's account of occasions of mapping has close structural similarities to what the Wittgenstein of the Tractatus calls an 'operation', which  is the condition of particular functions. Although the distinction between the set-theoretic concept of the function
+and  the concept of an operation was still being developed in mathematics at the time
+they wrote,  both Whitehead's occasions and Wittgenstein's operation are concepts of mapping as a 'process' (the term is also Wittgenstein's) which  takes its own results as its domain or input. [12] That is, although its content is otherwise undefined, the basis of
+an occasion  or operation is the result  of an antecedent occasion  or operation. A
+Whiteheadian occasion  of mapping, like a Wittgensteinian operation, can thus  be described as iterative in that it takes the results of an antecedent occasion  of mapping as its basis.

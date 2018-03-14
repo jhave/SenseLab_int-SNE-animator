@@ -1,0 +1,1 @@
+Brian Massumi: In physics there is a very famous problem that heavily influenced the development of chaos  theory.  It’s  called  the  ‘three-body  problem’, where you have completely deterministic trajectories of bodies constrained by Newtonian laws. For example, if you have two bodies interacting, through gravity for example, everything is calculable and foreseeable.

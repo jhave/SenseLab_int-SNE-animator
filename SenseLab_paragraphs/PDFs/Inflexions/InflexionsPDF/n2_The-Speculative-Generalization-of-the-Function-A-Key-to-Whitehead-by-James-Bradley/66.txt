@@ -1,0 +1,1 @@
+[18] For examples of one-to-many mappings considered as special  cases of many-to-one mappings in Whitehead, see Whitehead (1978: 348-49, 1968: 20, 51).

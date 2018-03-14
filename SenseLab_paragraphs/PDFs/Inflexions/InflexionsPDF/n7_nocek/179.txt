@@ -1,0 +1,2 @@
+Goldberg, David Edward. Genetic Algorithms in Search, Optimization, and Machine
+Learning. Reading, Mass.: Addison-Wesley, 1989.

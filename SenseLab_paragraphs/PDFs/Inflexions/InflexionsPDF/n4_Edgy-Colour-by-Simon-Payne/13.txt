@@ -1,0 +1,2 @@
+coincide  with  this cycle, produces three  separate images  of red, green  and  blue in sequence.  In theory this happens at a high enough rate that  the viewer perceives a full colour  image.   In practice the spinning colour  wheel  often  produces a red,
+green  and blue flicker effect.3

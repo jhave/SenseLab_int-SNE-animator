@@ -1,0 +1,7 @@
+Infrastructures:
+-Sawing machine, 
+-Dance floor,
+-Printer
+-Sensors ?
+-Sound system ?
+-Scanner ?

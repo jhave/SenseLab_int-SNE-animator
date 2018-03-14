@@ -1,0 +1,2 @@
+TEXT ON SCREEN:
+$50 has been credited to your  account.

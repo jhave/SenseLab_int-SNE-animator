@@ -1,0 +1,1 @@
+3  This  claim  requires qualification: in the  normal operation of the  computer, a user   constantly encounters thousands  of  files  that   are  part   of  the  operating system. But she is rarely  aware of any  of those  files, and  explicit  awareness of a file tends to occur only when that file is accessed  deliberately.

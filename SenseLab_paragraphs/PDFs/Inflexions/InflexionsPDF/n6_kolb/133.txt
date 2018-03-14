@@ -1,0 +1,2 @@
+[20] For diagrams and  explanations of how  a digital “Cave” room  works,  see the discussion of Brown University’s Cave, at
+http://graphics.cs.brown.edu/research/cave/home.html.

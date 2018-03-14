@@ -1,0 +1,2 @@
+Richard Dawkins, for his part, was quick to pick up on this, and developed one of  the  frst  well-known  experimental  applications  of  artifcial,  evolutionary design in The Blind Watchmaker. By using a GA to evolve a population of “biomorphs”— two-dimensional tree-like structures that graphically represent a set of genes — he established that without a God-designer, extreme complexity can  be  generated  from  very  simple  origins  through  iterative  processes  (non-
+random selection, random mutation, and replication).

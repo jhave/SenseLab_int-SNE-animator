@@ -1,0 +1,4 @@
+Image, 62, 64, 100, 125–128, 131, 135,
+136, 139, 141, 145, 160, 188, 209
+audio-image, 216
+becoming-image, 111, 130, 136, 198 movement-image (see Movement-image)

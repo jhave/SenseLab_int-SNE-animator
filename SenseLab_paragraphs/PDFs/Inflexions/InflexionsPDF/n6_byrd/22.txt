@@ -1,0 +1,1 @@
+not require coherence among themselves. It is only necessary that  the forms work  in their  black  boxes  and  can exchange inputs and  outputs with  other black boxes.

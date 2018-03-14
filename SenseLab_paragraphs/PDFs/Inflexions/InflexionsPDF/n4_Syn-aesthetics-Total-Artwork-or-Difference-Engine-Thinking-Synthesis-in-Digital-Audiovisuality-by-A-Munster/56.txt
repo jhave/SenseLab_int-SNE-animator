@@ -1,0 +1,1 @@
+Synthesis techniques are  central  to the  idea  of digitally generated sound.  The computer or other  digital synthesis hardware must  be instructed in some fashion to produce the sound.  A synthesis technique  is  a  set  of  rules   for  ordering  and   controlling  those instructions (Strawn, 1985: 1).

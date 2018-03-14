@@ -1,0 +1,1 @@
+Kay, Alan.   1993. “The  Early  History of Smalltalk”, ACM  SIGPLAN  Notices, 28.3 (March).  69-95.

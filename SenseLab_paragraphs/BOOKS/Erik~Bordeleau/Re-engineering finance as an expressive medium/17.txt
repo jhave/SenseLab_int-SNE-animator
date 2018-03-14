@@ -1,0 +1,1 @@
+Prior to the innovation of blockchain, there was no way to maintain the state of a distributed ledger in a decentralized manner. It was therefore necessary to rely on centralized control and ownership of data at the application layer by monopolistic corporations like Google, Facebook, Amazon and eBay.

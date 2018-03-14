@@ -1,0 +1,2 @@
+"Any object moving through a medium faster than the speed at which the medium carries waves will generate waves on each side, automatically, just from the motion itself. This is simple in the case of sound but it also occurs in the case
+of light." (Feynman, 1963, 51-1)

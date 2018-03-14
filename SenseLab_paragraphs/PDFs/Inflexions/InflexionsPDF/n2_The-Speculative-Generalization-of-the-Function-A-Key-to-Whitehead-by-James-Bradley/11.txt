@@ -1,0 +1,3 @@
+In defining the ultimate by reference to the relation of many  and  one, plurality and unity, Whitehead is taking  up a theme  which has been basic to speculative philosophy since the Greeks. In his view, however, this theme  can be more adequately treated than hitherto on account of the modern mathematical discovery of the function (1947: 97-113,
+127-131). That is, when Whitehead defines the ultimate by reference to the relation of
+many  and  one, he is defining it in terms of the set-theoretical definition of the function as the class of many-to-one relations.

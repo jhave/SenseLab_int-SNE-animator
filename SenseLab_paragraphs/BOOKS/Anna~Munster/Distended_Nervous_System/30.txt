@@ -1,0 +1,5 @@
+Endnotes
+1. See, for example, the following entries from Google’s research blog:
+Alexander Mordvintsev et. al., ‘Inceptionism: Going Deeper into Neural Networks’ Google Research Blog, 2015, accessed August 22, 2015, http://googleresearch.blogspot.com.au/2015/06/inceptionism-going-deeper-into-neural.html;
+Christian Szegedy, “Building a Deeper Understanding of images’ Google Research Blog, 2014, accessed August 22, 2015,
+http://googleresearch.blogspot.com.au/2014/09/building-deeper-understanding-of-images.html. In general the research undertaken on various aspects of machine learning at Google, relies upon the cloud infrastructure of Google’s Prediction API, which is located at: https://cloud.google.com/prediction/. I discuss this later in this chapter.

@@ -1,0 +1,1 @@
+Alexander Mordvintsev, Christopher Olah, and Mike Tyka, ‘Inceptionism: Going Deeper into Neural Networks’ Google Research Blog, 2015, accessed August 22, 2015, http://googleresearch.blogspot.com.au/2015/06/inceptionism-going-deeper-into-neural.html

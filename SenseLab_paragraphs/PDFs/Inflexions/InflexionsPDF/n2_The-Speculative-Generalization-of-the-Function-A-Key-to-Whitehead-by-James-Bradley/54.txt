@@ -1,0 +1,1 @@
+[4] On this definition of the function, both one-to-many relations and  one-to-one relations are analyzed as special  cases of many-to-one relations.

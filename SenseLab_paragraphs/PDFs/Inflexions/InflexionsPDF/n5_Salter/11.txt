@@ -1,0 +1,1 @@
+(essentially cheap  variable resistors that  when pressure is applied, result  in  a change  of  resistance)  connected  to  a  series   of  three   custom  microcontroller boards (PCB’s) that line the under surface  of the floor.

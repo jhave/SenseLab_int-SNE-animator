@@ -1,0 +1,1 @@
+circular intersections of the spheres define  the outlines of the floor levels.  These walkable surfaces are not imposed onto the enclosing geometry, they are defined by  it.  Further cuts  through the  levels  expose  the  harmonious integration and become  points of connection.

@@ -1,0 +1,1 @@
+Walking is the constraint. When you walk, you keep one foot on the ground, always. Two feet off the ground and you’re jumping. With one foot on the ground, you can move in three directions: forward, backward, sideways. If you move sideways in the “wrong” direction, you move across. That’s walking: one foot at a time.

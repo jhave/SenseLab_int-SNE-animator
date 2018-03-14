@@ -1,0 +1,2 @@
+that one monad might produce accords in the other. Accords and their transformations are strictly on the inside of every monad; vertical, absolute ‘forms’ that make up the monads remain disconnected, and  thus  we  do  not  go  from  one  to  the  other  one  after  the  other  by  resolution  or  modulation. Following a second and strictly Baroque analogy, Leibniz appeals to the conditions of a choir in which two monads each sing their part without either knowing or hearing that of the other, and yet they are
+‘in perfect accord’ (152).

@@ -1,0 +1,5 @@
+A mathematical function, matrix,  or schema is a rule of 'mapping' in which  the elements from one set or 'domain' are matched to elements of another set or 'codomain'. Take the function 'is the  square of' symbolized as (x)2, where x is the variable of the argument of the function. The square function is a rule under which  the numbers 2 or -2, the values
+of the variable in the domain, can be mapped onto or matched with  the value 4 of the
+variables in the codomain. Hence  the definition of the function as the class of many-to- one relations or mappings. [4] However, a function or mapping-rule can also be defined as an infinite  set of ordered pairs  <x, y>, with x  belonging to the domain and y to the codomain, where a correspondence is mapped between the member of the domain and the member of the codomain (so for (x)2 we could  have the ordered-pair values  <2, 4>,
+<3, 9>, and  so on). By the time Whitehead was writing Process and Reality, this had
+become,  and still is, the generally preferred definition of the function. [5] Yet although mathematically respectable, it is not a definition which  he could  accept as philosophically fundamental.

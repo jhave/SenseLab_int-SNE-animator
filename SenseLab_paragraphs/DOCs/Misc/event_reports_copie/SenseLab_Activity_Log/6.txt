@@ -1,0 +1,2 @@
+Camera workshop with Robert Cooksey (May 23, 2013)
+Robert Cooksey and two of his colleagues from Intel presented the Creative Interactive Gesture Camera Developer Kit in a workshop around questions of human-computer-interaction, movement, architecture and social intervention. The workshop was a preparation for the event at the Bioscleave House initially planned for October 2013.
